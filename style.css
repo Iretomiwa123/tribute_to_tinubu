@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.body{
+    justify-content: center;
+    margin: 0 auto;
+    padding: 2%;
+    width:100%;
+}
+
+.text{
+    width: 50%;
+    font-size: 1rem;
+    margin: 0 auto; 
+    padding: 1%;
+}
+.text h1{
+padding: 1%;
+text-align: center;
+}
+.bola{
+    padding: 1%;
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+.bola img{
+    width: 100%;
+}
+
+ .tinu{
+    margin: 0 auto;
+    padding: 1%;
+    display: block;
+    width: 50%;
+}
+
+.tinu ul{
+    display: flex;
+    gap: 10%;
+    
+}
